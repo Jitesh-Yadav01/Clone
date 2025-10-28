@@ -1,0 +1,12 @@
+const name = "Jitesh Yadav";
+console.log(name);
+console.log(typeof name);
+console.log(`My name is: ${name}`);
+const cost  = 5+2*3+9;
+console.log(cost);
+console.log(`cost of food: ${cost}`);
+const tax = (cost * 0.1);
+console.log(tax);
+console.log(`Tax(10%):$${tax}`);
+const totalCost = cost + tax;
+console.log(`Total cost:$${totalCost}`);
