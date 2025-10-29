@@ -1,1 +1,5 @@
-let calculation = ' ';
+let calculation = '';
+
+function calculate(num){
+
+}
